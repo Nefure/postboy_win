@@ -101,8 +101,15 @@
   <ItemGroup>
     <ClInclude Include="diplomat.h" />
     <ClInclude Include="ItemButton.h" />
+    <ClInclude Include="resource.h" />
     <QtMoc Include="mailboxwidgets.h" />
     <QtMoc Include="msgwidget.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="postboy_win.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="imgs\swings.ico" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Condition="Exists('$(QtMsBuild)\qt.targets')">
