@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>imgs/1.jpg</file>
+        <file>imgs/close.svg</file>
+        <file>imgs/file.bmp</file>
+        <file>imgs/folder.svg</file>
+        <file>imgs/loading.gif</file>
+        <file>imgs/ls.svg</file>
+        <file>imgs/min.svg</file>
+        <file>imgs/rss.svg</file>
+        <file>imgs/swings.ico</file>
+        <file>imgs/user.svg</file>
+    </qresource>
+</RCC>
